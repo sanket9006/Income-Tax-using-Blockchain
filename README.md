@@ -26,7 +26,7 @@ Blockchain could be innovative for the industry and will transform the finance f
 
 ►Could the tax function be replaced by blockchain’s secure, certain and real-time ledger? ►Tax professionals and tax compliance administrators may need to become blockchaintechnologists.
 
-►Tax knowledge still will be required to build, install and maintain systems.
+►Tax knowledge still will be required to build, install and maintain systems
 
 
 Blockchain is an ideal technology which could disrupt the Indian Tax System by overcoming all the roadblocks previously mentioned. Our idea and obective of the project  is to "Transparent and Immutable Taxing System so as to see corruption less India" Using Blockchain.The below salient features are included 
