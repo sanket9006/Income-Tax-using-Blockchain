@@ -17,7 +17,7 @@ Blockchain could be innovative for the industry and will transform the finance f
 ►How quickly will businesses adopt?
 
 ►How will tax professionals fit in?
-
+ 
 ►Future roles may require financial, tax and technical experience.
 
 ►It is vital to understand how governments are using blockchain to collect tax due.
